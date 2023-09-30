@@ -1,0 +1,14 @@
+name: cones
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab=3.6.3=py311hca03da5_0
+  - libtiff=4.5.0=h313beb8_2
+  - matplotlib=3.7.1=py311hca03da5_1
+  - numpy=1.24.3=py311hb57d4eb_0
+  - pandas=1.5.3=py311h6956b77_0
+  - python=3.11.3=hc0d8a6c_0
+  - scipy=1.11.1=py311hc76d9b0_0
+  - seaborn=0.12.2=py311hca03da5_0
+  - sympy=1.11.1=py311hca03da5_0
