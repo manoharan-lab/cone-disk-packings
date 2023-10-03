@@ -1,9 +1,12 @@
 # cone-disk-packings
-Code for simulations of disk packings on cones
+Code for simulations of disk packings on cones, by Jessica H. Sun and Abigail Plummer.
 
-Github: https://github.com/manoharan-lab/cone-disk-packings
-Dataverse: https://doi.org/10.7910/DVN/ZQ4BUR
+Please see the following publication for additional details: 
 
-Download Github code and Dataverse data. This parent directory should contain two unzipped subfolders after unzipping: cone-disk-packings-main (from Github) and dataverse_files (from Dataverse)
+Jessica H. Sun, Abigail Plummer, Grace H. Zhang, David R. Nelson, Vinothan N. Manoharan, "Geometric frustration of hard-disk packings on cones", _Physical Review E_ 2023. 
 
-Only the parent directories need to be unzipped; files within these directories do not need to be unzipped. The dataset and any included analysis intermediates can be analyzed without unzipping.
+## Instructions
+
+The code consists of Jupyter notebooks for running the simulations and analyzing the data.  To run, first clone or download this repository and download the data, which are stored on the [Harvard Dataverse](https://doi.org/10.7910/DVN/ZQ4BUR). The parent directory should contain two subfolders: cone-disk-packings-main (from Github) and dataverse_files (from Dataverse)
+
+Files within these directories do not need to be unzipped. The dataset and the included analysis intermediates can be analyzed without unzipping.
