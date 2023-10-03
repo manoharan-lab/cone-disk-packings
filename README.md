@@ -10,3 +10,5 @@ Jessica H. Sun, Abigail Plummer, Grace H. Zhang, David R. Nelson, Vinothan N. Ma
 The code consists of Jupyter notebooks for running the simulations and analyzing the data.  To run, first clone or download this repository and download the data, which are stored on the [Harvard Dataverse](https://doi.org/10.7910/DVN/ZQ4BUR). The parent directory should contain two subfolders: cone-disk-packings-main (from Github) and dataverse_files (from Dataverse)
 
 Files within these directories do not need to be unzipped. The dataset and the included analysis intermediates can be analyzed without unzipping.
+
+The file `cones.yml` can be used to set up a conda environment with all the packages needed to run the notebooks.
